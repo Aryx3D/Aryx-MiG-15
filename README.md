@@ -12,3 +12,4 @@ https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest
 3) Download the .nobp file from this repository and place it into Nuclear Option/Bepinex/Plugins.
 
 
+Tech support server:  https://discord.gg/zygBvWqVGR
